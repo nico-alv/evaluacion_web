@@ -1,0 +1,45 @@
+
+.lista {
+    text-align: center;
+}
+
+
+.info {
+    text-align: center;
+    background-color:bisque;
+    padding-block: 2%;
+    padding-inline: 2%;
+    margin-left: 25%;
+    max-width: fit-content;
+
+}
+
+li {
+    border-color: black;
+    background-color:beige;
+    list-style: none;
+}
+
+li:hover {
+    background-color: bisque;
+}
+
+.contenido-lista {
+    max-width: 75%;
+    margin-left: 10%;
+    grid-auto-flow: column;
+}
+
+
+button {
+    background-color:chocolate;
+    color: white;
+    font-weight: 900;
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    text-align: center;
+}
+
